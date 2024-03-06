@@ -65,9 +65,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I have already done this challenge before and wanted to try it out again since Frontend Mentor just released a new feature called "Learning Paths", which is a series of challenges that will help you improve your coding skills. I have not been doing lots of challenges recently because I was focused on studying more on JavaScript at The Odin Project and watching tutorials on YouTube. Nevertheless I had fun with this challenge and hope to still get some criticism and feedback from you guys. Thank you and have a nice day!
 
 ### Useful resources
 

@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LenH4rd/Learning-Path-QR-code-component.git)
-- Live Site URL: [Add live site URL here](https://learning-path-qr-code-component.vercel.app/)
+- Solution URL: [GitHub](https://github.com/LenH4rd/Learning-Path-QR-code-component.git)
+- Live Site URL: [Vercel](https://learning-path-qr-code-component.vercel.app/)
 
 ## My process
 

@@ -102,3 +102,10 @@ textarea:not([rows]) {
 :target {
   scroll-margin-block: 5ex;
 }
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Outfit";
+}

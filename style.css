@@ -107,6 +107,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+
   font-family: "Outfit";
   background-color: var(--lightGrey);
 }
@@ -126,7 +127,7 @@ main {
 }
 
 img {
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .text {
